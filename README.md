@@ -7,9 +7,10 @@ Welcome to my Python learning repository focused on **healthcare data**, **patie
 ## 📁 Repo Structure
 
 python-healthcare-analytics/
-├── daily-lessons/ # Python practice related to patient data, immunizations, and analytics
-├── weekly-prompts/ # Creative weekly recap projects exploring different topics
-└── README.md # You're here!
+
+- daily-lessons/ # Python practice related to patient data, immunizations, and analytics
+- weekly-prompts/ # Creative weekly recap projects exploring different topics
+- README.md # You're here!
 
 
 ---
