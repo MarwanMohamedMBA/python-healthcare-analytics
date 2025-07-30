@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Patient",
+    "age": 69,
+    "risk_level": "High Risk",
+    "medication": "Metformin",
+    "medication_info": "11 DESCRIPTION Glimepiride tablets USP, are an oral sulfonylurea that contains the active ingredient glimepiride USP. Chemically, glimepiride USP is identified as 1-[[p-[2-(3-ethyl-4-methyl-2-oxo-3-pyrroline-1-carboxamido) ethyl]phenyl]sulfonyl]-3-(trans-4-methylcyclohexyl)urea (C 24 H 34 N 4 O 5 S) with a molecular weight of 490.62. Glimepiride USP is a white to almost white powder, soluble in dimethyl formamide, sparingly soluble in methylene chloride, practically insoluble in water. The structural formula is: Glimepiride tablets meets USP drug release test 2. Glimepiride tablets USP, contain the active ingredient glimepiride USP and the following inactive ingredients: lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone and sodium starch glycolate. In addition, glimepiride 1 mg tablets contain ferric oxide red, glimepiride 2 mg tablets contain lake blend green (contains D&C yellow # 10 aluminium lake and FD&C blue #1/ brilliant blue FCF aluminium lake) and glimepiride 4 mg tablets contain lake blend blue (contains D&C yellow # 10 aluminium lake and FD&C blue # 1/ brilliant blue FCF aluminium lake). Structural Formula"
+  },
+  {
+    "name": "Patient",
+    "age": 79,
+    "risk_level": "High Risk",
+    "medication": "Amlodipine",
+    "medication_info": "DESCRIPTION Clarithromycin is a semi-synthetic macrolide antibiotic. Chemically, it is 6-0-methylerythromycin. The molecular formula is C 38 H 69 NO 13 , and the molecular weight is 747.96. The structural formula is: Clarithromycin is a white to off-white crystalline powder. It is soluble in acetone, slightly soluble in methanol, ethanol, and acetonitrile, and practically insoluble in water. Each clarithromycin tablet intended for oral administration contains 250 mg or 500 mg of clarithromycin. In addition, each clarithromycin tablet contains the following inactive ingredients: croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, povidone, talc, and titanium dioxide. Clarithromycin chemical structure"
+  },
+  {
+    "name": "Patient",
+    "age": 68,
+    "risk_level": "High Risk",
+    "medication": "Levothyroxine",
+    "medication_info": "NP Thyroid \u00ae (thyroid tablets, USP) for oral use is a natural preparation derived from porcine thyroid glands. They contain both tetraiodothyronine sodium (T 4 levothyroxine) and triiodothyronine sodium (T 3 liothyronine) providing 38 mcg levothyroxine (T 4 ) and 9 mcg liothyronine (T 3 ) per grain of thyroid. The inactive ingredients are calcium stearate, dextrose (agglomerated) and mineral oil. Contains no ingredient made from a gluten-containing grain (wheat, barley, rye)."
+  },
+  {
+    "name": "Patient",
+    "age": 79,
+    "risk_level": "High Risk",
+    "medication": "Lisinopril",
+    "medication_info": "DESCRIPTION Lisinopril USP is an oral long-acting angiotensin converting enzyme inhibitor. Lisinopril USP, a synthetic peptide derivative, is chemically described as (S)-1-[N 2-(1-carboxy-3-phenylpropyl)-L-lysyl]-L- proline dihydrate. It has the following structural formula: C21H31N3O5M.W. 441.53 Lisinopril USP is a white to off-white, crystalline powder. It is soluble in water and sparingly soluble in methanol and practically insoluble in ethanol. Lisinopril tablets USP are supplied as 2.5 mg, 5 mg, 10 mg, 20 mg, 30 mg and 40 mg tablets for oral administration. In addition to the active ingredient lisinopril USP, each tablet contains the following inactive ingredients: dibasic calcium phosphate anhydrous, magnesium stearate, mannitol, pregelatinized starch, and talc. MM1"
+  },
+  {
+    "name": "Patient",
+    "age": 73,
+    "risk_level": "High Risk",
+    "medication": "Atorvastatin",
+    "medication_info": "DESCRIPTION Clarithromycin is a semi-synthetic macrolide antibiotic. Chemically, it is 6-0-methylerythromycin. The molecular formula is C 38 H 69 NO 13 , and the molecular weight is 747.96. The structural formula is: Clarithromycin is a white to off-white crystalline powder. It is soluble in acetone, slightly soluble in methanol, ethanol, and acetonitrile, and practically insoluble in water. Each clarithromycin tablet intended for oral administration contains 250 mg or 500 mg of clarithromycin. In addition, each clarithromycin tablet contains the following inactive ingredients: croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, povidone, talc, and titanium dioxide. Clarithromycin chemical structure"
+  },
+  {
+    "name": "Patient",
+    "age": 74,
+    "risk_level": "High Risk",
+    "medication": "Amlodipine",
+    "medication_info": "DESCRIPTION Clarithromycin is a semi-synthetic macrolide antibiotic. Chemically, it is 6-0-methylerythromycin. The molecular formula is C 38 H 69 NO 13 , and the molecular weight is 747.96. The structural formula is: Clarithromycin is a white to off-white crystalline powder. It is soluble in acetone, slightly soluble in methanol, ethanol, and acetonitrile, and practically insoluble in water. Each clarithromycin tablet intended for oral administration contains 250 mg or 500 mg of clarithromycin. In addition, each clarithromycin tablet contains the following inactive ingredients: croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, povidone, talc, and titanium dioxide. Clarithromycin chemical structure"
+  },
+  {
+    "name": "Patient",
+    "age": 77,
+    "risk_level": "High Risk",
+    "medication": "Atorvastatin",
+    "medication_info": "DESCRIPTION Clarithromycin is a semi-synthetic macrolide antibiotic. Chemically, it is 6-0-methylerythromycin. The molecular formula is C 38 H 69 NO 13 , and the molecular weight is 747.96. The structural formula is: Clarithromycin is a white to off-white crystalline powder. It is soluble in acetone, slightly soluble in methanol, ethanol, and acetonitrile, and practically insoluble in water. Each clarithromycin tablet intended for oral administration contains 250 mg or 500 mg of clarithromycin. In addition, each clarithromycin tablet contains the following inactive ingredients: croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, povidone, talc, and titanium dioxide. Clarithromycin chemical structure"
+  },
+  {
+    "name": "Patient",
+    "age": 65,
+    "risk_level": "High Risk",
+    "medication": "Lisinopril",
+    "medication_info": "DESCRIPTION Lisinopril USP is an oral long-acting angiotensin converting enzyme inhibitor. Lisinopril USP, a synthetic peptide derivative, is chemically described as (S)-1-[N 2-(1-carboxy-3-phenylpropyl)-L-lysyl]-L- proline dihydrate. It has the following structural formula: C21H31N3O5M.W. 441.53 Lisinopril USP is a white to off-white, crystalline powder. It is soluble in water and sparingly soluble in methanol and practically insoluble in ethanol. Lisinopril tablets USP are supplied as 2.5 mg, 5 mg, 10 mg, 20 mg, 30 mg and 40 mg tablets for oral administration. In addition to the active ingredient lisinopril USP, each tablet contains the following inactive ingredients: dibasic calcium phosphate anhydrous, magnesium stearate, mannitol, pregelatinized starch, and talc. MM1"
+  },
+  {
+    "name": "Patient",
+    "age": 89,
+    "risk_level": "High Risk",
+    "medication": "Lisinopril",
+    "medication_info": "DESCRIPTION Lisinopril USP is an oral long-acting angiotensin converting enzyme inhibitor. Lisinopril USP, a synthetic peptide derivative, is chemically described as (S)-1-[N 2-(1-carboxy-3-phenylpropyl)-L-lysyl]-L- proline dihydrate. It has the following structural formula: C21H31N3O5M.W. 441.53 Lisinopril USP is a white to off-white, crystalline powder. It is soluble in water and sparingly soluble in methanol and practically insoluble in ethanol. Lisinopril tablets USP are supplied as 2.5 mg, 5 mg, 10 mg, 20 mg, 30 mg and 40 mg tablets for oral administration. In addition to the active ingredient lisinopril USP, each tablet contains the following inactive ingredients: dibasic calcium phosphate anhydrous, magnesium stearate, mannitol, pregelatinized starch, and talc. MM1"
+  },
+  {
+    "name": "Patient",
+    "age": 85,
+    "risk_level": "High Risk",
+    "medication": "Metformin",
+    "medication_info": "11 DESCRIPTION Glimepiride tablets USP, are an oral sulfonylurea that contains the active ingredient glimepiride USP. Chemically, glimepiride USP is identified as 1-[[p-[2-(3-ethyl-4-methyl-2-oxo-3-pyrroline-1-carboxamido) ethyl]phenyl]sulfonyl]-3-(trans-4-methylcyclohexyl)urea (C 24 H 34 N 4 O 5 S) with a molecular weight of 490.62. Glimepiride USP is a white to almost white powder, soluble in dimethyl formamide, sparingly soluble in methylene chloride, practically insoluble in water. The structural formula is: Glimepiride tablets meets USP drug release test 2. Glimepiride tablets USP, contain the active ingredient glimepiride USP and the following inactive ingredients: lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone and sodium starch glycolate. In addition, glimepiride 1 mg tablets contain ferric oxide red, glimepiride 2 mg tablets contain lake blend green (contains D&C yellow # 10 aluminium lake and FD&C blue #1/ brilliant blue FCF aluminium lake) and glimepiride 4 mg tablets contain lake blend blue (contains D&C yellow # 10 aluminium lake and FD&C blue # 1/ brilliant blue FCF aluminium lake). Structural Formula"
+  },
+  {
+    "name": "Patient",
+    "age": 71,
+    "risk_level": "High Risk",
+    "medication": "Metformin",
+    "medication_info": "11 DESCRIPTION Glimepiride tablets USP, are an oral sulfonylurea that contains the active ingredient glimepiride USP. Chemically, glimepiride USP is identified as 1-[[p-[2-(3-ethyl-4-methyl-2-oxo-3-pyrroline-1-carboxamido) ethyl]phenyl]sulfonyl]-3-(trans-4-methylcyclohexyl)urea (C 24 H 34 N 4 O 5 S) with a molecular weight of 490.62. Glimepiride USP is a white to almost white powder, soluble in dimethyl formamide, sparingly soluble in methylene chloride, practically insoluble in water. The structural formula is: Glimepiride tablets meets USP drug release test 2. Glimepiride tablets USP, contain the active ingredient glimepiride USP and the following inactive ingredients: lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone and sodium starch glycolate. In addition, glimepiride 1 mg tablets contain ferric oxide red, glimepiride 2 mg tablets contain lake blend green (contains D&C yellow # 10 aluminium lake and FD&C blue #1/ brilliant blue FCF aluminium lake) and glimepiride 4 mg tablets contain lake blend blue (contains D&C yellow # 10 aluminium lake and FD&C blue # 1/ brilliant blue FCF aluminium lake). Structural Formula"
+  },
+  {
+    "name": "Patient",
+    "age": 83,
+    "risk_level": "High Risk",
+    "medication": "Lisinopril",
+    "medication_info": "DESCRIPTION Lisinopril USP is an oral long-acting angiotensin converting enzyme inhibitor. Lisinopril USP, a synthetic peptide derivative, is chemically described as (S)-1-[N 2-(1-carboxy-3-phenylpropyl)-L-lysyl]-L- proline dihydrate. It has the following structural formula: C21H31N3O5M.W. 441.53 Lisinopril USP is a white to off-white, crystalline powder. It is soluble in water and sparingly soluble in methanol and practically insoluble in ethanol. Lisinopril tablets USP are supplied as 2.5 mg, 5 mg, 10 mg, 20 mg, 30 mg and 40 mg tablets for oral administration. In addition to the active ingredient lisinopril USP, each tablet contains the following inactive ingredients: dibasic calcium phosphate anhydrous, magnesium stearate, mannitol, pregelatinized starch, and talc. MM1"
+  },
+  {
+    "name": "Patient",
+    "age": 82,
+    "risk_level": "High Risk",
+    "medication": "Atorvastatin",
+    "medication_info": "DESCRIPTION Clarithromycin is a semi-synthetic macrolide antibiotic. Chemically, it is 6-0-methylerythromycin. The molecular formula is C 38 H 69 NO 13 , and the molecular weight is 747.96. The structural formula is: Clarithromycin is a white to off-white crystalline powder. It is soluble in acetone, slightly soluble in methanol, ethanol, and acetonitrile, and practically insoluble in water. Each clarithromycin tablet intended for oral administration contains 250 mg or 500 mg of clarithromycin. In addition, each clarithromycin tablet contains the following inactive ingredients: croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, povidone, talc, and titanium dioxide. Clarithromycin chemical structure"
+  },
+  {
+    "name": "Patient",
+    "age": 75,
+    "risk_level": "High Risk",
+    "medication": "Metformin",
+    "medication_info": "11 DESCRIPTION Glimepiride tablets USP, are an oral sulfonylurea that contains the active ingredient glimepiride USP. Chemically, glimepiride USP is identified as 1-[[p-[2-(3-ethyl-4-methyl-2-oxo-3-pyrroline-1-carboxamido) ethyl]phenyl]sulfonyl]-3-(trans-4-methylcyclohexyl)urea (C 24 H 34 N 4 O 5 S) with a molecular weight of 490.62. Glimepiride USP is a white to almost white powder, soluble in dimethyl formamide, sparingly soluble in methylene chloride, practically insoluble in water. The structural formula is: Glimepiride tablets meets USP drug release test 2. Glimepiride tablets USP, contain the active ingredient glimepiride USP and the following inactive ingredients: lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone and sodium starch glycolate. In addition, glimepiride 1 mg tablets contain ferric oxide red, glimepiride 2 mg tablets contain lake blend green (contains D&C yellow # 10 aluminium lake and FD&C blue #1/ brilliant blue FCF aluminium lake) and glimepiride 4 mg tablets contain lake blend blue (contains D&C yellow # 10 aluminium lake and FD&C blue # 1/ brilliant blue FCF aluminium lake). Structural Formula"
+  },
+  {
+    "name": "Patient",
+    "age": 80,
+    "risk_level": "High Risk",
+    "medication": "Lisinopril",
+    "medication_info": "DESCRIPTION Lisinopril USP is an oral long-acting angiotensin converting enzyme inhibitor. Lisinopril USP, a synthetic peptide derivative, is chemically described as (S)-1-[N 2-(1-carboxy-3-phenylpropyl)-L-lysyl]-L- proline dihydrate. It has the following structural formula: C21H31N3O5M.W. 441.53 Lisinopril USP is a white to off-white, crystalline powder. It is soluble in water and sparingly soluble in methanol and practically insoluble in ethanol. Lisinopril tablets USP are supplied as 2.5 mg, 5 mg, 10 mg, 20 mg, 30 mg and 40 mg tablets for oral administration. In addition to the active ingredient lisinopril USP, each tablet contains the following inactive ingredients: dibasic calcium phosphate anhydrous, magnesium stearate, mannitol, pregelatinized starch, and talc. MM1"
+  },
+  {
+    "name": "Patient",
+    "age": 65,
+    "risk_level": "High Risk",
+    "medication": "Amlodipine",
+    "medication_info": "DESCRIPTION Clarithromycin is a semi-synthetic macrolide antibiotic. Chemically, it is 6-0-methylerythromycin. The molecular formula is C 38 H 69 NO 13 , and the molecular weight is 747.96. The structural formula is: Clarithromycin is a white to off-white crystalline powder. It is soluble in acetone, slightly soluble in methanol, ethanol, and acetonitrile, and practically insoluble in water. Each clarithromycin tablet intended for oral administration contains 250 mg or 500 mg of clarithromycin. In addition, each clarithromycin tablet contains the following inactive ingredients: croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, povidone, talc, and titanium dioxide. Clarithromycin chemical structure"
+  },
+  {
+    "name": "Patient",
+    "age": 81,
+    "risk_level": "High Risk",
+    "medication": "Amlodipine",
+    "medication_info": "DESCRIPTION Clarithromycin is a semi-synthetic macrolide antibiotic. Chemically, it is 6-0-methylerythromycin. The molecular formula is C 38 H 69 NO 13 , and the molecular weight is 747.96. The structural formula is: Clarithromycin is a white to off-white crystalline powder. It is soluble in acetone, slightly soluble in methanol, ethanol, and acetonitrile, and practically insoluble in water. Each clarithromycin tablet intended for oral administration contains 250 mg or 500 mg of clarithromycin. In addition, each clarithromycin tablet contains the following inactive ingredients: croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, povidone, talc, and titanium dioxide. Clarithromycin chemical structure"
+  },
+  {
+    "name": "Patient",
+    "age": 86,
+    "risk_level": "High Risk",
+    "medication": "Atorvastatin",
+    "medication_info": "DESCRIPTION Clarithromycin is a semi-synthetic macrolide antibiotic. Chemically, it is 6-0-methylerythromycin. The molecular formula is C 38 H 69 NO 13 , and the molecular weight is 747.96. The structural formula is: Clarithromycin is a white to off-white crystalline powder. It is soluble in acetone, slightly soluble in methanol, ethanol, and acetonitrile, and practically insoluble in water. Each clarithromycin tablet intended for oral administration contains 250 mg or 500 mg of clarithromycin. In addition, each clarithromycin tablet contains the following inactive ingredients: croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, povidone, talc, and titanium dioxide. Clarithromycin chemical structure"
+  },
+  {
+    "name": "Patient",
+    "age": 79,
+    "risk_level": "High Risk",
+    "medication": "Levothyroxine",
+    "medication_info": "NP Thyroid \u00ae (thyroid tablets, USP) for oral use is a natural preparation derived from porcine thyroid glands. They contain both tetraiodothyronine sodium (T 4 levothyroxine) and triiodothyronine sodium (T 3 liothyronine) providing 38 mcg levothyroxine (T 4 ) and 9 mcg liothyronine (T 3 ) per grain of thyroid. The inactive ingredients are calcium stearate, dextrose (agglomerated) and mineral oil. Contains no ingredient made from a gluten-containing grain (wheat, barley, rye)."
+  },
+  {
+    "name": "Patient",
+    "age": 86,
+    "risk_level": "High Risk",
+    "medication": "Levothyroxine",
+    "medication_info": "NP Thyroid \u00ae (thyroid tablets, USP) for oral use is a natural preparation derived from porcine thyroid glands. They contain both tetraiodothyronine sodium (T 4 levothyroxine) and triiodothyronine sodium (T 3 liothyronine) providing 38 mcg levothyroxine (T 4 ) and 9 mcg liothyronine (T 3 ) per grain of thyroid. The inactive ingredients are calcium stearate, dextrose (agglomerated) and mineral oil. Contains no ingredient made from a gluten-containing grain (wheat, barley, rye)."
+  },
+  {
+    "name": "Patient",
+    "age": 66,
+    "risk_level": "High Risk",
+    "medication": "Lisinopril",
+    "medication_info": "DESCRIPTION Lisinopril USP is an oral long-acting angiotensin converting enzyme inhibitor. Lisinopril USP, a synthetic peptide derivative, is chemically described as (S)-1-[N 2-(1-carboxy-3-phenylpropyl)-L-lysyl]-L- proline dihydrate. It has the following structural formula: C21H31N3O5M.W. 441.53 Lisinopril USP is a white to off-white, crystalline powder. It is soluble in water and sparingly soluble in methanol and practically insoluble in ethanol. Lisinopril tablets USP are supplied as 2.5 mg, 5 mg, 10 mg, 20 mg, 30 mg and 40 mg tablets for oral administration. In addition to the active ingredient lisinopril USP, each tablet contains the following inactive ingredients: dibasic calcium phosphate anhydrous, magnesium stearate, mannitol, pregelatinized starch, and talc. MM1"
+  },
+  {
+    "name": "Patient",
+    "age": 69,
+    "risk_level": "High Risk",
+    "medication": "Metformin",
+    "medication_info": "11 DESCRIPTION Glimepiride tablets USP, are an oral sulfonylurea that contains the active ingredient glimepiride USP. Chemically, glimepiride USP is identified as 1-[[p-[2-(3-ethyl-4-methyl-2-oxo-3-pyrroline-1-carboxamido) ethyl]phenyl]sulfonyl]-3-(trans-4-methylcyclohexyl)urea (C 24 H 34 N 4 O 5 S) with a molecular weight of 490.62. Glimepiride USP is a white to almost white powder, soluble in dimethyl formamide, sparingly soluble in methylene chloride, practically insoluble in water. The structural formula is: Glimepiride tablets meets USP drug release test 2. Glimepiride tablets USP, contain the active ingredient glimepiride USP and the following inactive ingredients: lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone and sodium starch glycolate. In addition, glimepiride 1 mg tablets contain ferric oxide red, glimepiride 2 mg tablets contain lake blend green (contains D&C yellow # 10 aluminium lake and FD&C blue #1/ brilliant blue FCF aluminium lake) and glimepiride 4 mg tablets contain lake blend blue (contains D&C yellow # 10 aluminium lake and FD&C blue # 1/ brilliant blue FCF aluminium lake). Structural Formula"
+  },
+  {
+    "name": "Patient",
+    "age": 82,
+    "risk_level": "High Risk",
+    "medication": "Levothyroxine",
+    "medication_info": "NP Thyroid \u00ae (thyroid tablets, USP) for oral use is a natural preparation derived from porcine thyroid glands. They contain both tetraiodothyronine sodium (T 4 levothyroxine) and triiodothyronine sodium (T 3 liothyronine) providing 38 mcg levothyroxine (T 4 ) and 9 mcg liothyronine (T 3 ) per grain of thyroid. The inactive ingredients are calcium stearate, dextrose (agglomerated) and mineral oil. Contains no ingredient made from a gluten-containing grain (wheat, barley, rye)."
+  },
+  {
+    "name": "Patient",
+    "age": 88,
+    "risk_level": "High Risk",
+    "medication": "Amlodipine",
+    "medication_info": "DESCRIPTION Clarithromycin is a semi-synthetic macrolide antibiotic. Chemically, it is 6-0-methylerythromycin. The molecular formula is C 38 H 69 NO 13 , and the molecular weight is 747.96. The structural formula is: Clarithromycin is a white to off-white crystalline powder. It is soluble in acetone, slightly soluble in methanol, ethanol, and acetonitrile, and practically insoluble in water. Each clarithromycin tablet intended for oral administration contains 250 mg or 500 mg of clarithromycin. In addition, each clarithromycin tablet contains the following inactive ingredients: croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, povidone, talc, and titanium dioxide. Clarithromycin chemical structure"
+  }
+]
